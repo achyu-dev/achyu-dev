@@ -1,4 +1,3 @@
-[![MasterHead](https://www.shutterstock.com/image-photo/programmer-developer-screen-new-technology-260nw-1236426268.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Achyuth S.S</h1>
 <h3 align="center">A passionate Computer Networking and Machine Learning enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
