@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, 5G and Beyond**
 
-- 💬 Ask me about **SystemVerilog, Machine Learning, MATLAB, TCP/IP**
+- 💬 Ask me about **Machine Learning, Deep Learning, Web development Frameworks and more**
 
-- 📫 How to reach me **achyugeorge7744@gmail.com**
+- 📫 How to reach me **achyuthss2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/achyuthss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achyuth s s" height="30" width="40" /></a>
 <a href="https://instagram.com/comms_catalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achyuth_comms" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@achyugeorge7744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@achyugeorge7744" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/achyugeorge7744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="achyugeorge7744" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/achyu-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="achyugeorge7744" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
