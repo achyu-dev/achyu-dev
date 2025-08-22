@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/achyuthss1" target="blank"><img src="https://img.shields.io/twitter/follow/achyuthss1?logo=twitter&style=for-the-badge" alt="achyuthss1" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, 5G and Beyond**
+- 🌱 I’m currently learning **Machine Learning, Web Technologies and more !!!**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Web development Frameworks and more**
 
@@ -19,6 +19,8 @@
 <a href="https://instagram.com/comms_catalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achyuth_comms" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@achyugeorge7744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@achyugeorge7744" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/achyu-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="achyugeorge7744" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/router6512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="router6512" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
