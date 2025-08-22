@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achyu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="achyu-dev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/achyuthss1" target="blank"><img src="https://img.shields.io/twitter/follow/achyuthss1?logo=twitter&style=for-the-badge" alt="achyuthss1" /></a> </p>
+<p align="left"> <a href="https://x.com/AchyuthSS142670" target="blank"><img src="https://img.shields.io/twitter/follow/achyuthss1?logo=twitter&style=for-the-badge" alt="achyuthss1" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Web Technologies and more !!!**
 
