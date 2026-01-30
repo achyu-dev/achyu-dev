@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Achyuth S.S</h1>
-<h3 align="center">A passionate Web Dev and Machine Learning enthusiast</h3>
+<h3 align="center">Backend-focused Software Engineer with experience building and supporting
+production-grade systems across web, cloud, and ML-driven applications</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achyu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="achyu-dev" /> </p>
