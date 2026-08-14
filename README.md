@@ -36,14 +36,5 @@ Software Engineer building backend systems, developer tooling, automation, and A
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achyu-dev&show_icons=true&locale=en&layout=compact" alt="achyu-dev" /></p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=achyu-dev&show_icons=true&locale=en&layout=compact&hide_border=true"
-    alt="Top Languages"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=achyu-dev&show_icons=true&locale=en&hide_border=true"
-    alt="GitHub Stats"
-    height="165"
-  />
+  <img src="https://komarev.com/ghpvc/?username=achyu-dev&label=Profile%20views&style=flat-square" alt="Profile views" />
 </p>
