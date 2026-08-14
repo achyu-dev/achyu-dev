@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Achyuth S.S</h1>
-<h3 align="center">Backend-focused Software Engineer with experience building and supporting
-production-grade systems across web, cloud, and ML-driven applications</h3>
+<h3 align="center">
+Software Engineer building backend systems, developer tooling, automation, and AI-assisted engineering workflows
+</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achyu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="achyu-dev" /> </p>
 
 <p align="left"> <a href="https://x.com/AchyuthSS142670" target="blank"><img src="https://img.shields.io/twitter/follow/achyuthss1?logo=twitter&style=for-the-badge" alt="achyuthss1" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Web Technologies and more !!!**
+### About me
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Web development Frameworks and more**
+- 🐍 Primarily working with **Python**, backend systems, APIs, and automation
+- 🤖 Interested in **coding agents, MCP-based tooling, AI-assisted development, and reliable agent workflows**
+- 🧪 I enjoy building things that can be **tested, debugged, measured, and validated**
+- 🐧 Comfortable working across **Linux, Docker, CI/CD, developer tooling, and automation environments**
+- ⚙️ I like turning repetitive or ambiguous engineering workflows into deterministic systems
+- 🔍 Particularly interested in **debugging, developer experience, test automation, and software quality**
 
-- 📫 How to reach me **achyuthss2003@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
